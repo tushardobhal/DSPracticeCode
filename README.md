@@ -1,1 +1,1 @@
-# DSPracticeCode
+This consists pf practice code for Data Structures in C++
